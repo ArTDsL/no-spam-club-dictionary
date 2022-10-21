@@ -6,7 +6,7 @@ Para adicionar ou solicitar a remoção acesse [essa página](../../issues) (é 
 
 
 ## De onde vem essa lista?
-Essa lista vem de todos os servidores que coordeno, todos os e-mails presentes na mesma foram classificados **MANUALMENTE**, o conteúdo dos e-mails eram: anúncios indesejáveis, pishing, repetições de envio acima do normal, mensagens caluniosas, ameaças e etc...
+Essa lista vem de todos os servidores que coordeno, todos os e-mails presentes na mesma foram classificados **MANUALMENTE**, o conteúdo dos e-mails variam desde anúncios indesejáveis, pishing, repetições de envio acima do normal à mensagens caluniosas e até mesmo ameaças e etc...
 
 ## Meu e-mail está na lista, o que posso fazer?
 Entre em contato pela página fornecida para que possamos remover o mesmo mediante a um termo de **NÃO PROLIFERAÇÃO DE SPAN**!
