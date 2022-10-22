@@ -13,3 +13,16 @@ Entre em contato pela página fornecida para que possamos remover o mesmo median
 
 ## Posso baixar a lista e utilizar a mesma?
 Sim, esse é o intuito! Quanto mais pessoas fizerem o download, compartilharem e contribuirem, mais segurança e menos aporrinhação teremos com Spams...
+
+---
+
+## Instalações
+
+#### SpamAssassin
+- Faça o download do arquivo `user_prefs` no diretório [.spamassassin](./.spamassassin).
+- Acesse seu cPanel e entre no File Manager (Gerenciador de arquivos).
+- Acesse a pasta `.spamassassin` no diretório principal do cPanel da sua hospedagem.
+- Substitua o arquivo `user_prefs` original pelo novo (o que você fez download no começo do passo-a-passo).
+
+**Para atualizar**
+- Sempre que quiser atualizar basta substituir o arquivo `user_prefs` pelo baixado aqui.
