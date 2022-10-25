@@ -309,3 +309,13 @@ blacklist_from *@okrconsult.com.br
 blacklist_from *@sempretemoferta.shop
 blacklist_from *@sableads.theater
 blacklist_from *@novamixcomunica.com.br
+blacklist_from *@unifilmesz.com
+blacklist_from *@*.unifilmesz.com
+blacklist_from *@achoumaisofertas.com.br
+blacklist_from *@*.achoumaisofertas.com.br
+blacklist_from *@gaineyee.com
+blacklist_from *@*.gaineyee.com
+blacklist_from *@albt.com.br
+blacklist_from *@*.albt.com.br
+blacklist_from *@supportwebmail.com
+blacklist_from *@*.supportwebmail.com

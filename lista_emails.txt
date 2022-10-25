@@ -308,3 +308,13 @@ contatofatura-com-br@outlook.com
 *@sempretemoferta.shop
 *@sableads.theater
 *@novamixcomunica.com.br
+*@unifilmesz.com
+*@*.unifilmesz.com
+*@achoumaisofertas.com.br
+*@*.achoumaisofertas.com.br
+*@gaineyee.com
+*@*.gaineyee.com
+*@albt.com.br
+*@*.albt.com.br
+*@supportwebmail.com
+*@*.supportwebmail.com
