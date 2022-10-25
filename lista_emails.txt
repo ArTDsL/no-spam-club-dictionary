@@ -318,3 +318,5 @@ contatofatura-com-br@outlook.com
 *@*.albt.com.br
 *@supportwebmail.com
 *@*.supportwebmail.com
+*@theworkpc.com
+*@*.theworkpc.com

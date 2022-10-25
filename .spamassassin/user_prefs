@@ -319,3 +319,5 @@ blacklist_from *@albt.com.br
 blacklist_from *@*.albt.com.br
 blacklist_from *@supportwebmail.com
 blacklist_from *@*.supportwebmail.com
+blacklist_from *@theworkpc.com
+blacklist_from *@*.theworkpc.com
